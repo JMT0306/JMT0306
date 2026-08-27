@@ -26,20 +26,21 @@ My current focus is simple: build useful solutions, explain the trade-offs, and 
 
 ## Featured project
 
-<div align="center">
-
-### 🛡️ [ReproSafe](https://github.com/JMT0306/ReproSafe)
-
-[![ReproSafe repository card](https://github-readme-stats.vercel.app/api/pin/?username=JMT0306&repo=ReproSafe&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=22D3EE&text_color=64748B)](https://github.com/JMT0306/ReproSafe)
-
-**Reproducibility without losing sight of safety.**
-
-Explore the project, read the documentation, and follow its development directly in the repository.
-
-[![Explore ReproSafe](https://img.shields.io/badge/Explore_ReproSafe-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMT0306/ReproSafe)
-[![View source](https://img.shields.io/badge/View_source-0EA5E9?style=for-the-badge&logo=git&logoColor=white)](https://github.com/JMT0306/ReproSafe)
-
-</div>
+<table>
+  <tr>
+    <td width="72" align="center">🛡️</td>
+    <td>
+      <h3><a href="https://github.com/JMT0306/ReproSafe">ReproSafe</a></h3>
+      <strong>Reproducibility without losing sight of safety.</strong>
+      <br><br>
+      A practical project for building repeatable workflows while keeping safety, clear boundaries, and maintainability at the center.
+      <br><br>
+      <a href="https://github.com/JMT0306/ReproSafe"><strong>Explore the repository →</strong></a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/JMT0306/ReproSafe#readme">Read the documentation</a>
+    </td>
+  </tr>
+</table>
 
 ## Selected work
 
