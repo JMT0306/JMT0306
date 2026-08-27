@@ -4,9 +4,17 @@
 
 **I build practical automation for real operational problems.**
 
+`Automation` · `Linux` · `Python` · `Reproducible workflows`
+
 [![GitHub followers](https://img.shields.io/github/followers/JMT0306?style=flat-square&logo=github&label=Followers&color=0ea5e9)](https://github.com/JMT0306?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=JMT0306&style=flat-square&color=06b6d4&label=Profile+views)](https://github.com/JMT0306)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joaoterrait/)
+
+</div>
+
+<div align="center">
+
+[About](#about-me) · [Featured project](#featured-project) · [Selected work](#selected-work) · [Toolbox](#toolbox) · [Contact](#get-in-touch)
 
 </div>
 
@@ -16,6 +24,23 @@ I am a systems analyst and developer focused on **automation**, **Linux administ
 
 My current focus is simple: build useful solutions, explain the trade-offs, and leave things easier to maintain than I found them.
 
+## Featured project
+
+<div align="center">
+
+### 🛡️ [ReproSafe](https://github.com/JMT0306/ReproSafe)
+
+[![ReproSafe repository card](https://github-readme-stats.vercel.app/api/pin/?username=JMT0306&repo=ReproSafe&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=22D3EE&text_color=64748B)](https://github.com/JMT0306/ReproSafe)
+
+**Reproducibility without losing sight of safety.**
+
+Explore the project, read the documentation, and follow its development directly in the repository.
+
+[![Explore ReproSafe](https://img.shields.io/badge/Explore_ReproSafe-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JMT0306/ReproSafe)
+[![View source](https://img.shields.io/badge/View_source-0EA5E9?style=for-the-badge&logo=git&logoColor=white)](https://github.com/JMT0306/ReproSafe)
+
+</div>
+
 ## Selected work
 
 | Project | What it does |
@@ -24,7 +49,7 @@ My current focus is simple: build useful solutions, explain the trade-offs, and 
 | [ASTROAZOR](https://github.com/JMT0306/ASTROAZOR) | Educational astronomy notebooks with an Azorean perspective, arranged as a reproducible learning path. |
 | [AI OCR SOL](https://github.com/JMT0306/AI_OCR_SOL) | Python experiments for extracting structured fields from invoices and scanned documents. |
 
-## Tools I work with
+## Toolbox
 
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white">
@@ -61,6 +86,12 @@ My current focus is simple: build useful solutions, explain the trade-offs, and 
 - **Useful simplicity:** small tools that solve a specific problem well.
 - **Reusable knowledge:** concise documentation that helps the next person move faster.
 - **Open collaboration:** focused issues, documentation improvements, and pull requests are welcome.
+
+<div align="center">
+
+`Define` → `Build` → `Test` → `Document` → `Share`
+
+</div>
 
 ## Get in touch
 
